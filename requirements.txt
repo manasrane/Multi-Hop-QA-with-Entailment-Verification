@@ -1,0 +1,11 @@
+sentence-transformers
+faiss-cpu
+transformers
+torch
+datasets
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+scikit-learn
