@@ -2,6 +2,7 @@
 
 This project implements a multi-hop question answering system using dense retrieval, chain-of-evidence construction, and entailment-based verification, inspired by production QA pipelines from Google, Meta, and OpenAI.
 
+Developed an end-to-end QA pipeline inspired by production systems (Google, Meta, OpenAI), implementing dense retrieval with FAISS, chain-of-evidence construction, and cross-encoder entailment verification
 ## Architecture
 
 The system follows this pipeline:
