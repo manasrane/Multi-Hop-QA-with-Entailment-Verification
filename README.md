@@ -38,11 +38,4 @@ Uses HotpotQA dataset (hotpot_train_v1.1.json, hotpot_dev_distractor_v1.json)
 
 See `notebooks/evaluation.ipynb` for metrics and plots.
 
-## CV Description
 
-**Multi-Hop Question Answering System with Entailment Verification**
-
-- Developed an end-to-end QA pipeline inspired by production systems (Google, Meta, OpenAI), implementing dense retrieval with FAISS, chain-of-evidence construction, and cross-encoder entailment verification
-- Built using sentence-transformers, transformers, and PyTorch.
-- Conducted comprehensive ablation studies on chain length, verification thresholds, and retrieval parameters
-- Demonstrated expertise in vector databases (FAISS), NLP models, and multi-hop reasoning
